@@ -19,7 +19,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center gap-2">
             <Icon name="Flower2" size={24} className="text-foreground" />
-            <span className="text-xl font-light tracking-wider text-foreground">ЦВЕТЫ ДУШЫ</span>
+            <span className="text-xl font-light tracking-wider text-foreground">ЦВЕТЫ ДУШИ</span>
           </Link>
 
           <nav className="hidden md:flex items-center gap-8">
