@@ -31,7 +31,7 @@ const Delivery = () => {
                   <Icon name="Clock" size={32} className="text-foreground" />
                 </div>
                 <h3 className="font-medium mb-2 tracking-wide">БЫСТРАЯ ДОСТАВКА</h3>
-                <p className="text-sm text-muted-foreground">Доставка в течение 2-3 часов по городу</p>
+                <p className="text-sm text-muted-foreground">Доставка в течение 1 часа по городу</p>
               </CardContent>
             </Card>
 
