@@ -41,7 +41,7 @@ const Delivery = () => {
                   <Icon name="MapPin" size={32} className="text-foreground" />
                 </div>
                 <h3 className="font-medium mb-2 tracking-wide">ПО ВСЕМУ ГОРОДУ</h3>
-                <p className="text-sm text-muted-foreground">Доставляем в любую точку г. Оренбурга</p>
+                <p className="text-sm text-muted-foreground">Доставляем в любую точку Москвы</p>
               </CardContent>
             </Card>
 
