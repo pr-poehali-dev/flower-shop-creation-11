@@ -41,9 +41,7 @@ const Index = () => {
         >
           <div className="absolute inset-0 bg-black/20"></div>
           <div className="relative z-10 text-center text-white px-4">
-            <h1 className="text-5xl md:text-7xl font-light tracking-widest mb-6 italic">
-              ЦВЕТЫ
-            </h1>
+            <h1 className="text-5xl md:text-7xl font-light tracking-widest mb-6 italic">ЦВЕТЫ,</h1>
             <p className="text-xl md:text-2xl font-light mb-8 tracking-wide">
               КОТОРЫЕ ДЕЛАЮТ ВАС СЧАСТЛИВЕЕ
             </p>
